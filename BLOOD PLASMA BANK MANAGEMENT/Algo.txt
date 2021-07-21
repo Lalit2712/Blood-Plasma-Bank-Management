@@ -1,0 +1,94 @@
+Step 1 :-) Start
+    Step 1.1 :-) import OS (Operating System) module
+    Step 1.2 :-) import mySQL connector module
+    Step 1.3 :-) import Date Time module
+    Step 1.4 :-)import Random module
+    Step 1.5 :-)import Time module
+    Step 1.6 :-)import Matplotlib module (pyplot)
+    Step 1.7 :-)import webbrowser module
+		1.8) Display Logo By Webbrowser Module
+
+Step 2 :-) -- Main Function --
+    Step 2.1 :-) Display choices to user 
+    Step 2.2 :-) Get choice from user
+    Step 2.3 :-) Proceed accordingly
+
+    -- Choice to function -- 
+    1 - Blood Storage
+    2 - Donation System
+    3 - Request Management For Patients
+    4 - Blood Donors Management 
+    5 - Database Administration
+    6 - Exit
+
+    
+Step 3 :-) -- Blood Storage --
+    Step 3.1 :-)Display choices to user 
+    Step 3.2 :-)Get choice from user
+    Step 3.3 :-)Proceed accordingly
+
+    -- Choice to function -- 
+    1 - Add Details - Adds new blood group details in database
+    2 - List Details - List blood details or pr-codes 
+    3 - Update Details - Update blood quantity
+    4 - Delete Details - Deletes record(s) in database
+    5 - Know Codes - Displays a textual representation of blood group quantities available
+    6 - Inventory Management - Displays a graphical representation of blood group quantities available.
+    7 - Back
+
+
+Step 4 :-) -- Donation System --
+    Step 4.1 :-)Display choices to user 
+    Step 4.2 :-)Get choice from user
+    Step 4.3 :-)Proceed accordingly
+
+    -- Choice to function -- 
+    1 - New Donation - Adds new donation to database
+    2 - List Donations - History of donations
+    3 - Back
+
+
+Step 5 :-) -- Request Management --
+    Step 5.1 :-)Display choices to user 
+    Step 5.2 :-)Get choice from user
+    Step 5.3 :-)Proceed accordingly
+
+
+
+     -- Choice to function -- 
+    1 - Request Blood - Returns if blood is available or reports otherwise accordingly
+    2 - List Requests - History of requests
+    3 - Back
+
+
+Step 6 :-) -- Donors Management --
+     Step 6.1 :-)Display choices to user 
+     Step 6.2 :-)Get choice from user
+     Step 6.3 :-)Proceed accordingly
+
+    -- Choice to function -- 
+    1 - Add Donor - Add frequent donor to system 
+    2 - List Donor - Gives information of blood group donors textually
+    3 - Donor Stats - Graphical representation of donors per blood group
+    4 - Back
+
+
+Step 7 :-) -- Database Management --
+     Step 7.1 :-)Display choices to user 
+     Step 7.2 :-)Get choice from user
+     Step 7.3 :-)Proceed accordingly
+
+    -- Choice to function -- 
+    1 - Create Databases - Single use creates tables
+    2 - List Databases - Lists databases
+    3 - Back
+
+Step 8 :-)SQL 
+     Step 8.1 :-)Connect to SQL and make a database with given login information
+     Step 8.2 :-)Set up a cursor 
+     Step 8.3 :-)Write query
+     Step 8.4 :-)Execute
+
+Step 9 :-) End
+
+
